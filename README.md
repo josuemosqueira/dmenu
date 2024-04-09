@@ -1,4 +1,4 @@
 # dmenu
 =========
 demo:
-![En video](https://github.com/josuemosqueira/dmenu/blob/main/simplescreenrecorder-2024-04-09_10.55.06.mp4)
+![En video](https://files.catbox.moe/2wbxsq.mp4)
